@@ -1,0 +1,3 @@
+ rosrun image_view image_view image:=/mv_29900485/image_raw/ compressed
+
+rosbag play   ~/Desktop/subset.bag
